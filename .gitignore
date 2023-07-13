@@ -1,0 +1,16 @@
+# ignore files
+*.scvd
+*.bat
+*.uvguix.Admin
+*.uvguix.Lost
+*.uvguix.vader04
+*.uvoptx
+*.uvprojx
+*.bat
+!keilkill.bat
+# ignore folders 
+.vscode/ 
+Listings/
+Objects/
+DebugConfig/
+# 
