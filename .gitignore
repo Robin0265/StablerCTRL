@@ -1,9 +1,7 @@
 # ignore files
 *.scvd
 *.bat
-*.uvguix.Admin
-*.uvguix.Lost
-*.uvguix.vader04
+*.uvguix.*
 *.uvoptx
 *.uvprojx
 *.bat
