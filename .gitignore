@@ -1,4 +1,6 @@
 # ignore files
+# *.gif
+*.pdf
 *.scvd
 *.bat
 *.uvguix.*
@@ -7,8 +9,8 @@
 *.bat
 !keilkill.bat
 # ignore folders 
-.vscode/ 
-Listings/
-Objects/
-DebugConfig/
+**/.vscode/ 
+**/Listings/
+**/Objects/
+**/DebugConfig/
 # 
