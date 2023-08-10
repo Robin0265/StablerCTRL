@@ -36,5 +36,8 @@ Yuanshao Yang (Robin)
 	Email: yuanshao@umich.edu
 	Telegram: @RobinY501
 	Wechat&QQ: 2864369437
+Ruize Cao
+	Email: caoruize@stu.scu.edu.cn
+	QQ: 1724653637
 ```
 
