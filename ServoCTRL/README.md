@@ -12,6 +12,12 @@
 * PA9, PA10: USART1 TX/RX, MCU Communications
 * PA6, PA7: TIM3_CH1/CH2, Servo Control
 
+## Keywords for the Project
+
+* PID controller
+* Linear Control
+* Pan & Tilt cooperative control
+
 ## How to Build
 
 ### Through Keil
@@ -22,7 +28,8 @@
 
 * TBC
 
-### About
+## About
+
 ```
 Copyright (c) 2023 Robin Young
 ```
