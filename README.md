@@ -25,4 +25,16 @@
 
 ### Aug 2023
 
-* Test for the whole [Automated Vehicle]([CRZLost/Automatic-Ball-Picking-Car: This is the key codes for a automatic ball picking car (github.com)](https://github.com/CRZLost/Automatic-Ball-Picking-Car/tree/main)).
+* Test for the whole [Automated Vehicle](https://github.com/CRZLost/Automatic-Ball-Picking-Car/tree/main).
+
+
+
+## About
+
+```
+Yuanshao Yang (Robin)
+	Email: yuanshao@umich.edu
+	Telegram: @RobinY501
+	Wechat&QQ: 2864369437
+```
+
